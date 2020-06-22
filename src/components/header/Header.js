@@ -10,7 +10,7 @@ const Header = () => {
     return (
         <div className={Style.header}>
             <div className={Style.item}>
-                <Link to='/' >VideTube</Link>
+                <Link to='/' >YUJIRO_TUBE</Link>
             </div>
             <div className={Style.item}>
                 <form>
